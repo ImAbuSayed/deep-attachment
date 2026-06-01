@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deep Attachment
+
+This log tracks the cryptographic history and versioning for the song **Deep Attachment** (deep-attachment).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-02T02:09:35.898943 | `v1` | `805761faf89d44e5bf719e699b70068de071690a8241673dc7aafc21f4349da5` | `5e20f419f15912fd953dc09e40f4232204836626028edfe1634c1a49c6fde56f` | `2026-06-02_deep-attachment-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-attachment/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Deep Attachment](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-attachment/) |
+| **Get License** | [Get License For Deep Attachment](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-attachment/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `805761faf89d44e5bf719e699b70068de071690a8241673dc7aafc21f4349da5` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
